@@ -9,7 +9,7 @@ The dataset was designed to evaluate the ability of **LuminAI** to perform seman
 ## Description
 
 - **Number of documents:** 200
-- **File formats:** `.txt`, `.pdf`, `.docx`, `.xlsx`, `.json`, `.yml`, `.md` 
+- **File formats:** `.txt`, `.pdf`, `.docx`, `.xlsx`, `.pptx`, `.json`, `.yml`, `.md` 
 - **Total size:** [2.1 MB]  
 - **Main language:** Spanish  
 - **Contents:**  
