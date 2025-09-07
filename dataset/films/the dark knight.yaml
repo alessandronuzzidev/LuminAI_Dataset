@@ -1,0 +1,51 @@
+The_Dark_Knight:
+  año: 2008
+  director: Christopher Nolan
+  trilogía:
+    - Batman_Begins (2005)
+    - The_Dark_Knight (2008)
+    - The_Dark_Knight_Rises (2012)
+  género: Superhéroes / Crimen / Drama
+  protagonistas:
+    - Bruce Wayne / Batman: Christian Bale
+    - Joker: Heath Ledger
+    - Harvey Dent: Aaron Eckhart
+    - Rachel Dawes: Maggie Gyllenhaal
+    - Alfred Pennyworth: Michael Caine
+    - Lucius Fox: Morgan Freeman
+    - Jim Gordon: Gary Oldman
+  sinopsis: >
+    Segunda entrega de la trilogía del Caballero Oscuro que explora las fortalezas y debilidades de Batman, su moralidad y su enfrentamiento con el caótico Joker.
+  trama:
+    inicio:
+      - El Joker lidera un atraco a un banco de la mafia en Gotham, asesinando a sus cómplices.
+      - Bruce Wayne combate el crimen con ayuda de Alfred y Lucius.
+      - Jim Gordon colabora con Batman para atacar el crimen organizado.
+    desarrollo:
+      - Harvey Dent, fiscal de distrito, se convierte en símbolo de esperanza para Gotham.
+      - Joker ofrece a la mafia eliminar a Batman a cambio de recursos.
+      - Serie de actos terroristas para forzar a Batman a revelar su identidad.
+      - Harvey Dent se presenta como Batman para atraer al Joker.
+      - Persecución y captura del Joker.
+      - En la comisaría, Joker enfrenta psicológicamente a Batman.
+    giro_clave:
+      - Joker secuestra a Harvey Dent y Rachel Dawes, colocándolos en ubicaciones separadas con explosivos.
+      - Batman rescata a Dent por engaño del Joker; Rachel muere.
+      - Dent queda desfigurado y se transforma en Dos Caras.
+    clímax:
+      - Joker pone a prueba la moralidad de dos barcos: civiles y prisioneros.
+      - Ninguno detona el barco contrario, frustrando el plan del Joker.
+      - Batman enfrenta a Dos Caras para salvar a la familia de Gordon.
+      - Dos Caras muere; Batman asume la culpa de sus crímenes para preservar su legado como "Caballero Blanco".
+    final:
+      - Batman se convierte en fugitivo.
+      - Gordon pronuncia: "No es el héroe que Gotham merece, pero es el que necesita".
+  temas:
+    - Moralidad y ética
+    - Sacrificio personal
+    - Corrupción del poder
+    - Caos vs. orden
+  premios:
+    - Óscar póstumo a Heath Ledger como Mejor Actor de Reparto
+  legado: >
+    Considerada una de las mejores películas de superhéroes de la historia, con gran impacto en el cine contemporáneo gracias a su complejidad narrativa, actuaciones memorables y dirección magistral.

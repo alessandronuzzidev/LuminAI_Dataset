@@ -1,0 +1,94 @@
+{
+  "titulo_original": "The Empire Strikes Back",
+  "titulo_espanol": "El Imperio Contraataca",
+  "anio": 1980,
+  "director": "Irvin Kershner",
+  "guion": ["Leigh Brackett", "Lawrence Kasdan"],
+  "musica": "John Williams",
+  "franquicia": "Star Wars",
+  "posicion_en_saga": "Segunda entrega de la trilogía original",
+  "tono": "Más oscuro y maduro que su predecesora",
+  "sinopsis": "La película continúa la lucha entre la Alianza Rebelde y el Imperio Galáctico, profundizando en los personajes y expandiendo el universo. Tras refugiarse en Hoth, los rebeldes son atacados por el Imperio, lo que lleva a la separación de los protagonistas. Luke viaja a Dagobah para entrenar con Yoda, mientras Han, Leia, Chewbacca y C-3PO huyen en el Halcón Milenario, enfrentando la persecución de Darth Vader. Eventualmente, Han es capturado y congelado en carbonita, y Luke confronta a Vader, quien revela ser su padre. Los héroes logran escapar, pero quedan marcados por las pérdidas y desafíos que les esperan.",
+  "actores_principales": {
+    "Luke Skywalker": "Mark Hamill",
+    "Han Solo": "Harrison Ford",
+    "Leia Organa": "Carrie Fisher",
+    "Chewbacca": "Peter Mayhew",
+    "C-3PO": "Anthony Daniels",
+    "Darth Vader": "David Prowse (cuerpo), James Earl Jones (voz)",
+    "Lando Calrissian": "Billy Dee Williams",
+    "Boba Fett": "Jeremy Bulloch",
+    "Yoda": "Frank Oz",
+    "Obi-Wan Kenobi": "Alec Guinness"
+  },
+  "estructura": [
+    {
+      "capitulo": 1,
+      "titulo": "Refugio en Hoth",
+      "eventos": [
+        "Los rebeldes están en la luna helada de Hoth tras la destrucción de la primera Estrella de la Muerte.",
+        "Luke es atacado por un wampa y rescatado por Han.",
+        "Visión de Obi-Wan indicando a Luke viajar a Dagobah para entrenar con Yoda."
+      ]
+    },
+    {
+      "capitulo": 2,
+      "titulo": "Ataque imperial y separación",
+      "eventos": [
+        "El Imperio localiza Hoth y ataca con AT-AT.",
+        "Los rebeldes evacúan.",
+        "Luke parte a Dagobah, mientras Han, Leia, Chewbacca y C-3PO escapan en el Halcón Milenario."
+      ]
+    },
+    {
+      "capitulo": 3,
+      "titulo": "Entrenamiento en Dagobah",
+      "eventos": [
+        "Luke conoce a Yoda y comienza su entrenamiento Jedi.",
+        "Aprende sobre el control emocional y los riesgos del lado oscuro.",
+        "Visión de sus amigos en peligro, lo que lo impulsa a abandonar el entrenamiento prematuramente."
+      ]
+    },
+    {
+      "capitulo": 4,
+      "titulo": "La Ciudad de las Nubes",
+      "eventos": [
+        "Han y compañía buscan refugio con Lando Calrissian en Bespin.",
+        "Lando traiciona al grupo bajo presión de Darth Vader.",
+        "Han es congelado en carbonita y entregado a Boba Fett para Jabba el Hutt."
+      ]
+    },
+    {
+      "capitulo": 5,
+      "titulo": "Duelo y revelación",
+      "eventos": [
+        "Luke llega a Bespin y enfrenta a Darth Vader.",
+        "Durante el combate, Vader revela que es su padre.",
+        "Luke rechaza unirse al lado oscuro y se arroja al vacío para escapar."
+      ]
+    },
+    {
+      "capitulo": 6,
+      "titulo": "Retirada y reflexión",
+      "eventos": [
+        "Luke es rescatado por Leia, Chewbacca y Lando.",
+        "Se recupera de sus heridas y reflexiona sobre la revelación.",
+        "La película cierra con la determinación de seguir luchando contra el Imperio."
+      ]
+    }
+  ],
+  "temas": [
+    "Lucha del bien contra el mal",
+    "Identidad y revelaciones familiares",
+    "Crecimiento personal y entrenamiento",
+    "Sacrificio y lealtad",
+    "Tentación del poder"
+  ],
+  "momentos_iconicos": [
+    "Ataque de los AT-AT en Hoth",
+    "\"Lo sé\" de Han Solo a Leia",
+    "Congelación en carbonita",
+    "Revelación de Vader: 'Yo soy tu padre'"
+  ],
+  "legado": "Considerada una de las mejores secuelas de la historia del cine, consolidando a Star Wars como una franquicia culturalmente trascendental."
+}

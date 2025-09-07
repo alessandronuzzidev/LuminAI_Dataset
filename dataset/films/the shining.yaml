@@ -1,0 +1,51 @@
+The_Shining:
+  año: 1980
+  director: Stanley Kubrick
+  basada_en: "Novela homónima de Stephen King"
+  género:
+    - Terror psicológico
+    - Suspense
+    - Horror sobrenatural
+  protagonistas:
+    - Jack Torrance: Jack Nicholson
+    - Wendy Torrance: Shelley Duvall
+    - Danny Torrance: Danny Lloyd
+    - Dick Hallorann: Scatman Crothers
+    - Stuart Ullman: Barry Nelson
+    - Lloyd (barman): Joe Turkel
+    - Delbert Grady: Philip Stone
+  sinopsis: >
+    Un aspirante a escritor acepta un trabajo como cuidador de invierno en el aislado Hotel Overlook.
+    Allí, junto a su esposa e hijo, enfrentará el creciente aislamiento y la influencia de fuerzas sobrenaturales
+    que amenazan con destruirlos.
+  trama:
+    inicio:
+      - Jack Torrance acepta el trabajo en el Hotel Overlook durante el invierno.
+      - Stuart Ullman advierte sobre el aislamiento y el caso de Delbert Grady, quien asesinó a su familia.
+      - La familia se muda al hotel; Danny revela su don psíquico, "el resplandor".
+      - Dick Hallorann, el chef, también tiene "el resplandor" y advierte a Danny sobre la habitación 237.
+    desarrollo:
+      - El aislamiento afecta la mente de Jack, aumentando su agresividad.
+      - Danny tiene visiones perturbadoras, incluyendo a las gemelas asesinadas.
+      - Jack comienza a ver y conversar con fantasmas, como Lloyd y Grady.
+      - Grady sugiere a Jack "corregir" a su familia.
+      - Danny entra a la habitación 237 y sufre un trauma; Wendy sospecha de Jack.
+    clímax:
+      - Wendy descubre que Jack solo ha escrito "All work and no play makes Jack a dull boy".
+      - Jack intenta atacarla, pero Wendy lo encierra en la despensa.
+      - El hotel libera a Jack.
+      - Hallorann regresa para ayudar, pero Jack lo mata.
+      - Jack persigue a Wendy y Danny con un hacha.
+    desenlace:
+      - Danny escapa al laberinto de nieve y engaña a Jack borrando su rastro.
+      - Jack se pierde y muere congelado.
+      - Wendy y Danny escapan en el vehículo de Hallorann.
+      - Fotografía final de 1921 muestra a Jack en una fiesta, sugiriendo un vínculo sobrenatural.
+  temas:
+    - Locura y aislamiento
+    - Influencia del mal
+    - Tiempo cíclico y destino
+    - Psíquico y percepción extrasensorial
+  legado: >
+    Considerada una obra maestra del terror psicológico, con una dirección icónica,
+    actuaciones memorables y simbolismo abierto a múltiples interpretaciones.

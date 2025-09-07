@@ -1,0 +1,56 @@
+{
+  "titulo": "The Matrix",
+  "año": 1999,
+  "directores": ["Lana Wachowski", "Lilly Wachowski"],
+  "genero": ["Ciencia ficción", "Acción", "Cyberpunk"],
+  "temas": [
+    "Realidad y percepción",
+    "Libre albedrío",
+    "Filosofía",
+    "Rebelión contra sistemas opresivos"
+  ],
+  "sinopsis": "En un mundo distópico, Thomas A. Anderson, alias Neo, descubre que la realidad es una simulación virtual llamada The Matrix, creada por máquinas para mantener a la humanidad bajo control mientras utilizan sus cuerpos como fuente de energía. Guiado por Morpheus y Trinity, Neo entrena para manipular las reglas de la simulación y acepta su destino como El Elegido, destinado a liberar a la humanidad.",
+  "personajes_principales": [
+    {
+      "nombre": "Thomas A. Anderson / Neo",
+      "actor": "Keanu Reeves",
+      "descripcion": "Programador informático y hacker que descubre la verdadera naturaleza de la realidad y su papel como El Elegido."
+    },
+    {
+      "nombre": "Morpheus",
+      "actor": "Laurence Fishburne",
+      "descripcion": "Líder carismático que cree en la profecía de El Elegido y guía a Neo."
+    },
+    {
+      "nombre": "Trinity",
+      "actor": "Carrie-Anne Moss",
+      "descripcion": "Hacker y guerrera experta que recluta y apoya a Neo."
+    },
+    {
+      "nombre": "Agente Smith",
+      "actor": "Hugo Weaving",
+      "descripcion": "Programa de inteligencia artificial que busca eliminar amenazas a The Matrix."
+    }
+  ],
+  "lugares_principales": [
+    "The Matrix (simulación virtual)",
+    "El mundo real post-apocalíptico",
+    "Nave Nebuchadnezzar"
+  ],
+  "eventos_destacados": [
+    "Neo conoce a Trinity y a Morpheus",
+    "Elección entre la pastilla roja y la azul",
+    "Revelación de que el mundo es una simulación",
+    "Entrenamiento de Neo en The Matrix",
+    "Captura de Morpheus por los agentes",
+    "Rescate de Morpheus por Neo y Trinity",
+    "Neo es asesinado y resucita con nuevas habilidades",
+    "Neo acepta su rol como El Elegido"
+  ],
+  "mensaje_final": "Neo advierte a las máquinas que mostrará a la humanidad lo que significa ser libre y se eleva en los cielos, simbolizando su poder ilimitado.",
+  "impacto_cultural": [
+    "Innovación en efectos visuales ('bullet time')",
+    "Influencia en el cine de ciencia ficción",
+    "Debate sobre la naturaleza de la realidad"
+  ]
+}

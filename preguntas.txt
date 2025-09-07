@@ -1,0 +1,30 @@
+¿Existe algún documento que relate la vida de una familia marcada por conflictos, asesinatos y dilemas filosóficos sobre la fe, la moralidad y la responsabilidad?|los hermanos karamázov.txt
+¿En qué documento se mencionan teorías modernas de agujeros negros?|breve historia del tiempo.txt
+¿Existe algún documento que relate la vida de un periodista atrapado en una crisis existencial mientras recorre una ciudad moderna?|la dolce vita.txt
+¿Hay algún archivo que narre la rivalidad y los engaños entre un pistolero, un delincuente y un asesino mientras compiten por un tesoro escondido?|the-good_-the-bad-and-the-ugly.xlsx
+¿Hay algún documento que relate la historia de un hombre anciano que busca experimentar el amor?|memoria-de-mis-putas-tristes.xlsx
+¿Hay algún documento que narre un día en la vida de personajes reflexionando sobre amor y identidad en la ciudad?|ulises.docx
+¿Existe algún documento sobre personas atrapadas en la adicción y el entretenimiento?|la broma infinita.txt
+¿Hay algún archivo sobre un hacker que descubre que su mundo es una simulación?|the matrix.json
+¿Hay algún documento que explore el amor, la libertad y las decisiones de varios personajes en la Checoslovaquia comunista?|la insoportable levedad del ser.txt
+¿Hay un libro que explique cómo las especies cambian con el tiempo?|sobre el origen de las especies.txt
+¿Existe un documento sobre un príncipe que mantiene el poder con astucia y fuerza?|el príncipe.txt
+¿Existe un documento sobre un empresario que salva judíos durante el Holocausto?|schindler's list.txt
+¿Hay algún documento que trate sobre un samurái asesinado?|rashomon.txt
+¿Existe un documento que relate historias sobre sueños, laberintos y la multiplicidad de la realidad?|ficciones.txt
+¿Existe un documento sobre una ciudad azotada por una epidemia?|la peste.txt
+¿Existe un documento sobre un niño que aprende cine de un mentor y recuerda su pasado a través de las películas?|cinema paradiso.txt
+¿Hay algún documento sobre un oficial enfrentando corrupción y crimen en un pueblo fronterizo?|touch of evil.txt
+¿Existe un documento que analice la violencia y decadencia urbana en Nueva York durante los años 70?|taxi driver.txt
+¿Existe un documento que analice el control social y la manipulación genética?|un-mundo-feliz.docx
+¿Existe un documento que hable sobre el impacto del un tiburón en una isla?|jaws.txt
+¿Existe un documento que relate la vida dentro de la mafia de Nueva York?|goodfellas.txt
+¿Existe un documento sobre la lucha entre un paciente y la autoridad en un hospital psiquiátrico?|one flew over the cuckoo's nest.txt
+¿Existe un documento sobre la vida de un escritor bohemio enfrentando pobreza, deseo y búsqueda de sentido en París?|trópico-de-cáncer.docx
+¿Existe un documento sobre una ciudad marcada por crímenes, violencia y desapariciones?|2666.pdf
+¿Hay algún documento que hable acerca de un profesor que busca el Santo Grial?|el código da vinci.txt
+¿Hay algún documento que hable sobre Jesucristo y Dios?|la biblia.txt
+¿En qué documento se habla sobre personajes fantasticos y un anillo?|el señor de los anillos.txt
+¿Hay algún documento donde se habel de luchar contra molinas y gigantes?|don quijote de la mancha.txt
+¿Hay algún documento que hable sobre un trabajo en un hotel en invierno?|the shining.yaml
+¿Hay algún documento relacionado con las tres leyes de la robótica?|yo_-robot.docx
