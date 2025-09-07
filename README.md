@@ -1,4 +1,4 @@
-# 📂 Dataset: LuminAI TFM
+# Dataset: LuminAI TFM
 
 This repository contains the dataset used in the development of the **Master’s Thesis (TFM)** titled *LuminAI: Semantic Document Retrieval in Unix Environments*.  
 
@@ -6,7 +6,7 @@ The dataset was designed to evaluate the ability of **LuminAI** to perform seman
 
 ---
 
-## 📊 Description
+## Description
 
 - **Number of documents:** 200
 - **File formats:** `.txt`, `.pdf`, `.docx`, `.xlsx`, `.json`, `.yml`, `.md` 
